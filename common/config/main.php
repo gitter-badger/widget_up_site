@@ -8,6 +8,13 @@ return [
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false
-        ]
+        ],
+        'session' => [
+            'class' => 'yii\web\DbSession',
+            'cookieParams' => [
+                'httpOnly' => true,
+                'lifeTime' => 3600 * 24 * 30
+            ],
+        ],
     ],
 ];
