@@ -1,6 +1,8 @@
 Yii 2 Advanced Project Template
 ===============================
 
+[![Join the chat at https://gitter.im/Patis0n/widget_up_site](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Patis0n/widget_up_site?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
 
